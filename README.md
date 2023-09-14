@@ -84,7 +84,36 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-![model]()
+## PLacement data
+![model](https://github.com/barathsubramani/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/1st.png)
+
+## Salary data
+![model](https://github.com/barathsubramani/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/2nd.png)
+
+## null()
+![model](https://github.com/barathsubramani/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/3rd.png)
+
+## duplicate
+![model](https://github.com/barathsubramani/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/4th.png)
+![model](https://github.com/barathsubramani/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/5th.png)
+
+## status
+![model](https://github.com/barathsubramani/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/6th.png)
+
+## y_pred
+![model](https://github.com/barathsubramani/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/7th.png)
+
+## accuracy
+![model](https://github.com/barathsubramani/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/8th.png)
+
+## Confusion array
+![model](https://github.com/barathsubramani/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/9th.png)
+
+## Classification report
+![model](https://github.com/barathsubramani/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/10th.png)
+
+## Prediction of LR:
+![model](https://github.com/barathsubramani/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/11th.png)
 
 
 ## Result:
