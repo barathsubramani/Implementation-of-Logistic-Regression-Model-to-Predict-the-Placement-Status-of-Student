@@ -98,22 +98,22 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![model](https://github.com/barathsubramani/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/5th.png)
 
 ## status
-![model](https://github.com/barathsubramani/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/6th.png)
-
-## y_pred
 ![model](https://github.com/barathsubramani/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/7th.png)
 
-## accuracy
+## y_pred
 ![model](https://github.com/barathsubramani/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/8th.png)
 
-## Confusion array
+## accuracy
 ![model](https://github.com/barathsubramani/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/9th.png)
 
-## Classification report
+## Confusion array
 ![model](https://github.com/barathsubramani/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/10th.png)
 
-## Prediction of LR:
+## Classification report
 ![model](https://github.com/barathsubramani/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/11th.png)
+
+## Prediction of LR:
+![model](https://github.com/barathsubramani/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/12th.png)
 
 
 ## Result:
